@@ -1,13 +1,14 @@
 #+TITLE: tcl layer
 
 # The maximum height of the logo should be 200 pixels.
-[[img/tcl.png]]
+[[img/Tcl-powered.svg]]
 
 # TOC links should be GitHub style anchors.
 * Table of Contents                                        :TOC_4_gh:noexport:
 - [[#description][Description]]
 - [[#install][Install]]
 - [[#key-bindings][Key bindings]]
+- [[#links-references-credits][Links, References, Credits]]
 
 * Description
 This layer does wonderful things:
@@ -23,6 +24,16 @@ file.
 | Key Binding | Description    |
 |-------------+----------------|
 | ~SPC x x x~ | Does thing01   |
+
+
+* Links, References, Credits
+- [[https:wiki.tcl.tk/10593][Tcl Elisp Macros]]
+- [[https:groups.google.com/forum/?hl=en#!msg/comp.lang.tcl/h6-S16o32fw/y7iQG4iQtmsJ][Tcl Elisp Macros (Jeff Hobbs @ comp.lang.tcl)]]
+- [[https:guest.iis.ee.ethz.ch/~zimmi/emacs/tcl-dc-mode.html][Emacs Tcl DC (dc_shell) Mode]]
+- [[https:wiki.tcl.tk/16118][emacs mode enhancement]]
+- [[http:nagelfar.sourceforge.net/][Nagelfar]] 
+- [[http:www.xdobry.de/ttclcheck/][ttclcheck - Typed Tcl Checker]]
+
 # Use GitHub URLs if you wish to link a Spacemacs documentation file or its heading.
 # Examples:
 # [[https://github.com/syl20bnr/spacemacs/blob/master/doc/VIMUSERS.org#sessions]]
