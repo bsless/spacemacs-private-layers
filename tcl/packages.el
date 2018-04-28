@@ -1,9 +1,9 @@
 ;;; packages.el --- tcl layer packages file for Spacemacs.
 ;;
-;; Copyright (c) 2012-2017 Sylvain Benner & Contributors
+;; Copyright (c) 2018 -  Ben Sless & Contributors
 ;;
-;; Author: anon <anon@linux-7uhl.suse>
-;; URL: https://github.com/syl20bnr/spacemacs
+;; Author: Ben Sless
+;; URL: https://github.com/bsless/spacemacs-private-layers
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
